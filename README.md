@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Lucas McMahon @LucasCodes8
 - 👀 I’m interested in cyber security and cloud engineering
 - 🌱 I’m currently learning Cloud and security essentials.
-- 📫 How to reach me lmm19n@fsu.edu, 8135418033
+- 📫 How to reach me lucasmcmahon040@gmail.com
 
 <!---
 LucasCodes8/LucasCodes8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
