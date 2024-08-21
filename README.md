@@ -36,7 +36,6 @@ My journey in cyber security has led me to develop an ongoing passion, and I am 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
