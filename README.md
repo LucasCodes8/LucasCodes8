@@ -11,10 +11,10 @@ My journey in cyber security has led me to develop an ongoing passion, and I am 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Intrusion Prevention    | <a href="https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf">Detection Lab</a>|
-| Detecting Malicious DNS/ICMP traffic using Wireshark         |<a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf"> SOC Automation Lab|
-| Scripting and Signature-based Detection using Zeek      |<a href="https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf"> SOC Automation Lab|
+| SIEM Implementation and Intrusion Prevention    | <a href="https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf">SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf">Network Detection Lab</a>|
+| Detecting Malicious DNS/ICMP traffic using Wireshark         |<a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf"> Wireshark Lab|
+| Scripting and Signature-based Detection using Zeek      |<a href="https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf"> Scripting Automation Lab|
 
 ## Tools
 
