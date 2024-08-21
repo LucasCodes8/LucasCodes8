@@ -1,7 +1,7 @@
 # Hello, I'm Lucas McMahon
 <a href="https://www.linkedin.com/in/lucas-mcmahon-cybersec/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from Florida State University with a bachelors degree in Cyber Criminiology. I have a profound interest in Cyber Security/Forensics and a dedication to solving complex problems.
+I am a recent graduate from Florida State University with a bachelors degree in Cyber Criminiology. I have a profound interest in Cyber Security/Forensics and a dedication to achieving my goals.
 
 ## Objective
 
