@@ -1,11 +1,11 @@
 # Hello, I'm Lucas McMahon
 <a href="https://www.linkedin.com/in/lucas-mcmahon-cybersec/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from Florida State University with a bachelors degree in Cyber Criminiology. I have a profound interest in Cyber Security/Forensics and a dedication to achieving my goals.
+I am a recent graduate from Florida State University with a bachelors degree in Cyber Criminiology and certifications such as CompTIA CYSA+. I have experience in hardware, software, and network trouble shooting. 
 
 ## Objective
 
-My journey in cyber security has led me to develop an ongoing passion, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is personal success in the field of Cyber Securrity. 
 
 ## Skills
 
