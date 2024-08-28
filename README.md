@@ -9,7 +9,7 @@ My objective is to achieve excellence in the field of cybersecurity, with a focu
 
 ## Projects
 
-| Title                                         |       Project      |
+| Title                                         |       Link      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Intrusion Prevention    | <a href="https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf">Network Detection Lab</a>|
