@@ -1,11 +1,11 @@
 # Hello, I'm Lucas McMahon
 <a href="https://www.linkedin.com/in/lucas-mcmahon-cybersec/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from Florida State University with a bachelors degree in Cyber Criminiology and certifications such as CompTIA CYSA+. I have experience in hardware, software, and network trouble shooting. 
+I am a recent graduate of Florida State University, holding a Bachelor's degree in Cyber Criminology, complemented by certifications such as the CompTIA CySA+. My experience spans hardware, software, and network troubleshooting, providing a solid foundation in the essential aspects of cybersecurity. I am passionate about leveraging my skills to identify vulnerabilities, enhance security protocols, and contribute to a safer digital environment.
 
 ## Objective
 
-My goal is personal success in the field of Cyber Securrity. I am currently looking for work as a Security Analyst.
+My objective is to achieve excellence in the field of cybersecurity, with a focus on developing my expertise as a Security Analyst. I am actively seeking opportunities that will allow me to apply my knowledge, sharpen my skills, and contribute to a team's success in safeguarding digital assets.
 
 ## Skills
 
