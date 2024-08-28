@@ -5,7 +5,7 @@ I am a recent graduate from Florida State University with a bachelors degree in 
 
 ## Objective
 
-My goal is personal success in the field of Cyber Securrity. 
+My goal is personal success in the field of Cyber Securrity. I am currently looking for work as a Security Analyst.
 
 ## Skills
 
@@ -26,13 +26,14 @@ My goal is personal success in the field of Cyber Securrity.
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-0078D4?&style=for-the-badge&logo=LimaCharlie" />
 </div>
 
 ## Certifications
