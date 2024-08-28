@@ -1,22 +1,21 @@
-# Hello, I'm Lucas McMahon
+# 👋 Hello, I'm Lucas McMahon
 <a href="https://www.linkedin.com/in/lucas-mcmahon-cybersec/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate of Florida State University, holding a Bachelor's degree in Cyber Criminology, complemented by certifications such as the CompTIA CySA+. My experience spans hardware, software, and network troubleshooting, providing a solid foundation in the essential aspects of cybersecurity. I am passionate about leveraging my skills to identify vulnerabilities, enhance security protocols, and contribute to a safer digital environment.
+I am a recent graduate of Florida State University with a Bachelor's degree in Cyber Criminology, complemented by certifications such as CompTIA CySA+. My experience encompasses hardware, software, and network troubleshooting, providing a comprehensive foundation in key cybersecurity practices. I am passionate about leveraging my skills to identify vulnerabilities, enhance security protocols, and contribute to creating a safer digital environment.
 
-## Objective
+## 🌟 Objective
+To achieve excellence in the field of cybersecurity by developing my expertise as a Security Analyst. I am actively seeking opportunities to apply my knowledge, sharpen my skills, and contribute to a team's success in safeguarding digital assets.
 
-My objective is to achieve excellence in the field of cybersecurity, with a focus on developing my expertise as a Security Analyst. I am actively seeking opportunities that will allow me to apply my knowledge, sharpen my skills, and contribute to a team's success in safeguarding digital assets.
+## 🧑‍💻 Projects
 
-## Projects
+| Title                                            |       Link                                                                                       |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| SIEM Implementation and Intrusion Prevention     | [SIEM Lab](https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf)                |
+| Network Traffic Monitoring and Attack Detection  | [Network Detection Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf)        |
+| Detecting Malicious DNS/ICMP Traffic using Wireshark | [Wireshark Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf)         |
+| Scripting and Signature-based Detection using Zeek | [Scripting Automation Lab](https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf)       |
 
-| Title                                         |       Link      |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Intrusion Prevention    | <a href="https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf">SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf">Network Detection Lab</a>|
-| Detecting Malicious DNS/ICMP traffic using Wireshark         |<a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf"> Wireshark Lab|
-| Scripting and Signature-based Detection using Zeek      |<a href="https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf"> Scripting Automation Lab|
-
-## Tools
+## 🛠 Tools
 
 ### Network
 <div>
@@ -36,13 +35,12 @@ My objective is to achieve excellence in the field of cybersecurity, with a focu
     <img src="https://img.shields.io/badge/-LimaCharlie-0078D4?&style=for-the-badge&logo=LimaCharlie" />
 </div>
 
-## Certifications
+## 🎓 Certifications
 <div>
-<a href="https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6"><img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6"><img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
-
 
 <!---
 LucasCodes8/LucasCodes8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
