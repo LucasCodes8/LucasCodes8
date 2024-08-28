@@ -7,9 +7,9 @@ I am a recent graduate of Florida State University, holding a Bachelor's degree 
 
 My objective is to achieve excellence in the field of cybersecurity, with a focus on developing my expertise as a Security Analyst. I am actively seeking opportunities that will allow me to apply my knowledge, sharpen my skills, and contribute to a team's success in safeguarding digital assets.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Title                                         |       Project      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Intrusion Prevention    | <a href="https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf">Network Detection Lab</a>|
