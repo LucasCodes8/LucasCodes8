@@ -10,6 +10,7 @@ To achieve excellence in the field of cybersecurity by developing my expertise a
 
 | Title                                            |       Link                                                                                       |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Using Wazuh and Sysmon for Cyber Defense | [Wazuh Lab](https://github.com/LucasCodes8/Using-Wazuh-and-Sysmon-for-Cyber-Defense)       |
 | SIEM Implementation and Intrusion Prevention     | [SIEM Lab](https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf)                |
 | Network Traffic Monitoring and Attack Detection  | [Network Detection Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf)        |
 | Detecting Malicious DNS/ICMP Traffic using Wireshark | [Wireshark Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf)         |
