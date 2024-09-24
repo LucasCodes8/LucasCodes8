@@ -10,7 +10,8 @@ To achieve excellence in the field of cybersecurity by developing my expertise a
 
 | Title                                            |       Link                                                                                       |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Investigating Command and Control C2 Communication Using the ELK-Stack: A Network Log-Analysis Lab | [Elk Lab](https://github.com/LucasCodes8/Investigating-Command-and-Control-C2-Communication-Using-the-ELK-Stack-A-Network-Log-Analysis-Lab/blob/main/README.md)       |
+| Investigating a Compromised Host: Analyzing Process Execution and Payload Delivery Using Splunk | [Splunk Lab](https://github.com/LucasCodes8/Investigating-a-Compromised-Host-Analyzing-Process-Execution-and-Payload-Delivery-Using-Splunk)       |
+| Investigating Command and Control C2 Communication Using the ELK-Stack: A Network Log-Analysis Lab | [Elk Lab](https://github.com/LucasCodes8/Investigating-Command-and-Control-C2-Communication-Using-the-ELK-Stack-A-Network-Log-Analysis-Lab)       |
 | Using Wazuh and Sysmon for Cyber Defense | [Wazuh Lab](https://github.com/LucasCodes8/Using-Wazuh-and-Sysmon-for-Cyber-Defense)       |
 | SIEM Implementation and Intrusion Prevention     | [SIEM Lab](https://github.com/LucasCodes8/MyWork/blob/main/LimaCharlieWriteup.pdf)                |
 | Network Traffic Monitoring and Attack Detection  | [Network Detection Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf)        |
