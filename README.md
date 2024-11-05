@@ -22,27 +22,27 @@ To achieve excellence in the field of cybersecurity by developing my expertise a
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1A82E2?&style=for-the-badge&logo=Wireshark&logoColor=white&labelColor=084B8A" />
+    <img src="https://img.shields.io/badge/-Zeek-5A6DA4?&style=for-the-badge&logo=Zeek&logoColor=white&labelColor=2A3D78" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white&labelColor=004B8A" />
+    <img src="https://img.shields.io/badge/-Sysmon-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=0D2744" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie-0078D4?&style=for-the-badge&logo=LimaCharlie" />
+    <img src="https://img.shields.io/badge/-Splunk-333333?&style=for-the-badge&logo=Splunk&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-1572B6?&style=for-the-badge&logo=LimaCharlie&logoColor=white&labelColor=004B8A" />
 </div>
 
 ## 🎓 Certifications
 <div>
-<a href="https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6"><img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF5733?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=900C3F" /></a>
+<a href="https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=003366" /></a>
+<a href="https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6"><img src="https://img.shields.io/badge/-CySA%2B-6A1B9A?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=4A148C" /></a>
 </div>
 
 <!---
