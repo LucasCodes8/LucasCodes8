@@ -17,6 +17,8 @@ To achieve excellence in the field of cybersecurity by developing my expertise a
 | Network Traffic Monitoring and Attack Detection  | [Network Detection Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf)        |
 | Detecting Malicious DNS/ICMP Traffic using Wireshark | [Wireshark Lab](https://github.com/LucasCodes8/MyWork/blob/main/DetectingDNSandICMP.pdf)         |
 | Scripting and Signature-based Detection using Zeek | [Scripting Automation Lab](https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf)       |
+| Forensic Analysis of Unuathorized Access on a Windows VM | [Windows Forensics Lab](https://github.com/LucasCodes8/Forensic-Analysis-of-Unauthorized-Access-on-Windows-VM/tree/main)       |
+
 
 ## 🛠 Tools
 
